@@ -39,7 +39,7 @@ const secondUser = {
         {name: "SD 02",city: "Jakarta",graduate: "2010"},
         {name: "SMP 03",city: "Bogor",graduate: "2013"},
         {name: "SMA 01",city: "Surabaya"},
-        {name: "Unoversitas Maju",city: "Tangerang"}
+        {name: "Universitas Maju",city: "Tangerang"}
     ],
     favoriteRestaurant:["Tempura","Bento","Sushi","Pancake","Padang","Katsu","Geprek","Eggy"]
 };
